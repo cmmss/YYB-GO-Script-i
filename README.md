@@ -10,19 +10,19 @@
 ### 1. 只拉取微信小程序脚本
 
 ```bash
-ql repo "https://github.com/lcmovie/YYB-GO-Script-i.git" "^wx-script/.*\.(js|py)$" "" "" "main" "js py"
+ql repo "https://github.com/cmmss/XCX.git" "^wx-script/.*\.(js|py)$" "" "" "main" "js py"
 ```
 
 ### 2. 只拉取独立脚本
 
 ```bash
-ql repo "https://github.com/lcmovie/YYB-GO-Script-i.git" "^idp-script/.*\.(js|py)$" "" "" "main" "js py"
+ql repo "https://github.com/cmmss/XCX.git" "^idp-script/.*\.(js|py)$" "" "" "main" "js py"
 ```
 
 ### 3. 拉取全部脚本
 
 ```bash
-ql repo "https://github.com/lcmovie/YYB-GO-Script-i.git" "^(wx-script|idp-script)/.*\.(js|py)$" "" "" "main" "js py"
+ql repo "https://github.com/cmmss/XCX" "^(wx-script|idp-script)/.*\.(js|py)$" "" "" "main" "js py"
 ```
 
 参数顺序：
