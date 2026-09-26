@@ -1,5 +1,3 @@
-# YYB-GO-Script-i
-
 青龙脚本订阅仓库，脚本按运行方式分为两类：
 
 - `wx-script/`：对接 [YYB-Go-Enhanced](https://github.com/525815266/YYB-Go-Enhanced) 的微信小程序脚本。
